@@ -50,7 +50,6 @@ body{
     background-color: aqua;
     width: 20vw;
     height: 10vh;
-
 }
 .eler{
     height: 5vh;
@@ -64,8 +63,6 @@ body{
     top:52%;
     left: 25%;
     font-size: 1.rem;
-
-
 }
 #rbjp{
     z-index: 1;
@@ -81,6 +78,4 @@ body{
     top:50%;
     font-size: 3rem;
     left: 60%;
-
-
 }
