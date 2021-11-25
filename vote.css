@@ -1,0 +1,86 @@
+body{
+    background-color: aquamarine;
+    /* display: flex;
+    padding: 20px;
+    justify-content: space-around; */
+}
+.container{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    width: 100vw;
+    height: 20vh;
+    align-items: center;
+    justify-content: center;
+}
+.resu{
+    display: flex;
+    padding: px;
+    /* justify-content: flex-start; */
+
+    justify-content: space-around;
+    width: 100vw;
+    height: 20vh;
+    align-items: center;
+    justify-content: center;
+}
+#rbjp{
+    height: 5vh;
+    width: 18vw;
+    padding: 15px;
+}
+#rjds{
+    height: 5vh;
+    width: 18vw;
+    padding: 15px;
+}
+#rcng{
+    height: 5vh;
+    width: 17vw;
+    padding: 15px;
+}
+.bjp1{
+    position: relative;
+
+ 
+    background-color: blueviolet;
+}
+#bjp,#cng,#jds{
+    padding: 20px;
+    background-color: aqua;
+    width: 20vw;
+    height: 10vh;
+
+}
+.eler{
+    height: 5vh;
+    width: 18vw;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    position:absolute;
+    top:52%;
+    left: 25%;
+    font-size: 1.rem;
+
+
+}
+#rbjp{
+    z-index: 1;
+}
+.my{
+    height: 10vh;
+    width: 18vw;
+    /* padding: 20px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    top:50%;
+    font-size: 3rem;
+    left: 60%;
+
+
+}
